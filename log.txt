@@ -1,0 +1,17 @@
+commit 8c99f059dcdaad91a0e9a02f5e240b4818f8f7f9
+Author: italo-o-r <alunoces@labcesac.net>
+Date:   Thu Aug 22 21:54:02 2019 -0300
+
+    Segundo commit
+
+commit 5cccc557de67c2e6388f32f4b81967e8cd377a83
+Author: italo-o-r <alunoces@labcesac.net>
+Date:   Thu Aug 22 21:38:09 2019 -0300
+
+    Primeiro commit
+
+commit 2093c7eee5748b43f6ae683ecd986f4d3069272c
+Author: Italo-Oliveira <italorocha1409@gmail.com>
+Date:   Thu Aug 22 21:22:57 2019 -0300
+
+    Create README.txt
